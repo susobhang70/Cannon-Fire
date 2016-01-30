@@ -1,0 +1,5 @@
+Run make, and then do ./game
+
+If make reports that sfml is not found, install the SFML library for sounds by:
+
+sudo apt-get install libsfml-dev
